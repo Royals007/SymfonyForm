@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="localhost" id="02b15321-761c-43cf-a054-2f33966b868f" port="3036" nameFormat="DESCRIPTIVE" username="MAMP PHP 7.4.1" />
+    </configs>
+  </component>
+</project>
